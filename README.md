@@ -1,4 +1,4 @@
-# kled_project
+# kled's Watermelon Game!
 
 ## Hi there!
 
