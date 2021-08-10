@@ -19,4 +19,4 @@
 
 
 ### Play Watermelon Game!! ###
-kled-watermelon-game.netlify.app
+(https://kled-watermelon-game.netlify.app)
