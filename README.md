@@ -16,3 +16,7 @@
 3. 아직 한참 모자라지만 귀여운 [챗봇](https://competent-payne-da6f41.netlify.app/chatbot.html)을 만들면서 연습하고 있습니다! 💻
 </div>
 </details>
+
+
+### Play Watermelon Game!! ###
+kled-watermelon-game.netlify.app
