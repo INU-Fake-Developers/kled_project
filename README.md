@@ -19,4 +19,4 @@
 
 
 ### Play Watermelon Game!! ###
-(https://kled-watermelon-game.netlify.app)
+👉🏻[수박게임 하러가기](https://kled-watermelon-game.netlify.app)
