@@ -1,4 +1,3 @@
-
 // 추가 점수
 let extraScore = 1;
 
