@@ -31,7 +31,7 @@ let fruitSlowDown = false;
 let clickChangeFruit = true;
 
 // 광고 링크
-let adLink = 'https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png';
+let adLink = false;
 
 // 웹 페이지 제목 수정
 document.getElementsByTagName("title")[0].innerText = `Kled's Watermelon Game!`;
